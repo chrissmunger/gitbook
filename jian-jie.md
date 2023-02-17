@@ -1,5 +1,5 @@
 ---
-description: 本 Docs会经常更新，可视为TeleMask Network 白皮书/路线图
+description: 本 Docs会经常更新，可视为TeleMask  白皮书/路线图
 ---
 
 # 简介

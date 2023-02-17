@@ -1,5 +1,5 @@
 ---
-description: 本 Docs会经常更新，可视为KK SOUL (KEEP KEY SOUL SOCIAL) 白皮书/路线图
+description: 本 Docs会经常更新，可视为TeleMask 白皮书/路线图
 ---
 
 # 行情优化
